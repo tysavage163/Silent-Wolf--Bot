@@ -4,7 +4,7 @@
   </a> 
 </div> 
 <p align="center">
-  <img style ="width: 500px; height: 600px;" src="https://i.ibb.co/HDCwvyhT/wolfbot.jpg" alt="Wolf Bot — Silent Wolf Aura" />
+  <img style ="width: 500px; height: 600px;" src="https://files.catbox.moe/dmuunz.jpg" alt="Wolf Bot — Silent Wolf Aura" />
 </p>
 
 <h1 align="center">
